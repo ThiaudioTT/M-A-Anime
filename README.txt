@@ -1,0 +1,1 @@
+Literalmente o programa que cheguei a usar para calcular a média aritmética dos animes.
